@@ -1,0 +1,54 @@
+
+div{
+width:1000px;
+height:800px;
+}
+body{
+background-color:#0B0B3B;
+max-height: 1000px;
+overflow: hidden;
+}
+h1{
+display:block;
+font:  'Open+Sans', normal;
+margin-left: 280px;
+margin-top:  40px;
+color:white
+}
+#write{
+font: 20px 'Open+Sans', normal;
+margin-left: 270px;
+display:block;
+color:white
+}
+#btn{
+margin-top: 100px;
+margin-left: 340px;
+background-image:url(https://raw.githubusercontent.com/katherinesandoval/Citizen-School/master/class-code/Images/github.jpg);
+border-width:1px;
+border-style:solid;
+background-color:white;
+width:50px;
+height:50px;
+border-radius:10px;
+display:block;
+}
+#first{
+display:block;
+margin-left: 280px;
+margin-top: -550px;
+color: white;
+}
+#second{
+	display:block;
+margin-left: 280px;
+margin-top: 10px;
+color: white;
+}
+img{
+	display:block;
+	margin-top: -430px;
+margin-left: 810px;
+height:1000px;
+width:900px;
+}
